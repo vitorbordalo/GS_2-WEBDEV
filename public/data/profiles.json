@@ -1,0 +1,4022 @@
+[
+  {
+    "id": 1,
+    "nome": "Uriel Oliveira",
+    "foto": "https://i.pravatar.cc/512?img=2",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional de RH com foco em impacto social.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "AWS",
+      "Node.js",
+      "SQL",
+      "GCP",
+      "Vue"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Analista de QA",
+        "inicio": "2022-07",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de rh com TensorFlow, AWS, Node.js."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "IA ética",
+      "Open Source"
+    ],
+    "email": "uriel.oliveira@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 2,
+    "nome": "Diego Carvalho",
+    "foto": "https://i.pravatar.cc/512?img=3",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional de Marketing com foco em colaboração.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "PostgreSQL",
+      "Python",
+      "AWS",
+      "Node.js",
+      "GCP",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2023-11",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de marketing com PostgreSQL, Python, AWS."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC-SP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças Pessoais",
+      "Cidades Inteligentes",
+      "Negócios Sociais"
+    ],
+    "email": "diego.carvalho@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 3,
+    "nome": "Vitor Campos",
+    "foto": "https://i.pravatar.cc/512?img=4",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional de Educação com foco em dados abertos.",
+    "localizacao": "Recife/PE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "GCP",
+      "MongoDB",
+      "SQL",
+      "Kotlin",
+      "Java",
+      "Django"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Analista de QA",
+        "inicio": "2022-06",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos de educação com GCP, MongoDB, SQL."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios Sociais",
+      "Open Source",
+      "IA ética"
+    ],
+    "email": "vitor.campos@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 4,
+    "nome": "Talita Almeida",
+    "foto": "https://i.pravatar.cc/512?img=5",
+    "cargo": "Engenheiro(a) de Dados",
+    "resumo": "Profissional de Marketing com foco em colaboração.",
+    "localizacao": "Recife/PE",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "SQL",
+      "Azure",
+      "Docker",
+      "GCP",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Proatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Engenheiro(a) de Dados",
+        "inicio": "2024-11",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de marketing com Next.js, SQL, Azure."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC-SP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Inclusão Digital",
+      "IA ética"
+    ],
+    "email": "talita.almeida@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 5,
+    "nome": "Elisa Costa",
+    "foto": "https://i.pravatar.cc/512?img=6",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Profissional de Marketing com foco em dados abertos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Vue",
+      "Flask",
+      "Pandas",
+      "Kotlin",
+      "Python",
+      "Java"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2020-08",
+        "fim": "2024-05",
+        "descricao": "Atuação em projetos de marketing com Vue, Flask, Pandas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UNB",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "Open Source",
+      "Cidades Inteligentes"
+    ],
+    "email": "elisa.costa@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 6,
+    "nome": "João Almeida",
+    "foto": "https://i.pravatar.cc/512?img=7",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Profissional de Design com foco em automação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Java",
+      "React",
+      "Docker",
+      "GCP",
+      "Django",
+      "Spring"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2023-06",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos de design com Java, React, Docker."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Finanças Pessoais",
+      "GovTech"
+    ],
+    "email": "joão.almeida@example.com",
+    "senioridade": "Sênior"
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Cardoso",
+    "foto": "https://i.pravatar.cc/512?img=8",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de Produto com foco em inovação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Flask",
+      "MongoDB",
+      "Django",
+      "Node.js",
+      "Swift"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Analista de Dados",
+        "inicio": "2023-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com Angular, Flask, MongoDB."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Sustentabilidade",
+      "Inclusão Digital"
+    ],
+    "email": "gabriela.cardoso@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 8,
+    "nome": "Otávio Costa",
+    "foto": "https://i.pravatar.cc/512?img=9",
+    "cargo": "Desenvolvedor(a) Mobile",
+    "resumo": "Profissional de TI com foco em dados abertos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "Docker",
+      "NumPy",
+      "Kotlin",
+      "Angular",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Proatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Desenvolvedor(a) Mobile",
+        "inicio": "2024-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de ti com MongoDB, Docker, NumPy."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Sustentabilidade",
+      "Educação"
+    ],
+    "email": "otávio.costa@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 9,
+    "nome": "Yuri Gomes",
+    "foto": "https://i.pravatar.cc/512?img=10",
+    "cargo": "Engenheiro(a) de Dados",
+    "resumo": "Profissional de Dados com foco em colaboração.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "Java",
+      "AWS",
+      "TensorFlow",
+      "Kubernetes",
+      "Swift"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Engenheiro(a) de Dados",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados com Pandas, Java, AWS."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFPE",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Negócios Sociais",
+      "Finanças Pessoais"
+    ],
+    "email": "yuri.gomes@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 10,
+    "nome": "Marina Vieira",
+    "foto": "https://i.pravatar.cc/512?img=11",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Profissional de Dados com foco em automação.",
+    "localizacao": "Brasília/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "TensorFlow",
+      "Angular",
+      "Java",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Liderança",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2022-10",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados com SQL, TensorFlow, Angular."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNB",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Cidades Inteligentes",
+      "Negócios Sociais"
+    ],
+    "email": "marina.vieira@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 11,
+    "nome": "Melissa Santos",
+    "foto": "https://i.pravatar.cc/512?img=12",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional de Educação com foco em impacto social.",
+    "localizacao": "Recife/PE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "NumPy",
+      "TypeScript",
+      "NoSQL",
+      "MongoDB",
+      "Pandas",
+      "Angular"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Analista de QA",
+        "inicio": "2020-10",
+        "fim": "2025-03",
+        "descricao": "Atuação em projetos de educação com NumPy, TypeScript, NoSQL."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Finanças Pessoais",
+      "Saúde"
+    ],
+    "email": "melissa.santos@example.com",
+    "senioridade": "Sênior"
+  },
+  {
+    "id": 12,
+    "nome": "Bruno Souza",
+    "foto": "https://i.pravatar.cc/512?img=13",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de TI com foco em automação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Python",
+      "PostgreSQL",
+      "Flask",
+      "Pandas",
+      "React",
+      "Spring"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Analista de Dados",
+        "inicio": "2023-06",
+        "fim": "2025-07",
+        "descricao": "Atuação em projetos de ti com Python, PostgreSQL, Flask."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFMG",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Saúde",
+      "Finanças Pessoais"
+    ],
+    "email": "bruno.souza@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 13,
+    "nome": "Ingrid Batista",
+    "foto": "https://i.pravatar.cc/512?img=14",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional de Educação com foco em inovação.",
+    "localizacao": "Brasília/DF",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Azure",
+      "React",
+      "Pandas",
+      "Python",
+      "Django",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2024-09",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos de educação com Azure, React, Pandas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "IA ética",
+      "Educação"
+    ],
+    "email": "ingrid.batista@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 14,
+    "nome": "Daniela Rocha",
+    "foto": "https://i.pravatar.cc/512?img=15",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Profissional de Marketing com foco em experiência do usuário.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Flask",
+      "Next.js",
+      "Spring",
+      "MongoDB",
+      "Kubernetes",
+      "AWS"
+    ],
+    "softSkills": [
+      "Organização",
+      "Empatia",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2023-05",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de marketing com Flask, Next.js, Spring."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cidades Inteligentes",
+      "Open Source"
+    ],
+    "email": "daniela.rocha@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 15,
+    "nome": "Eduarda Pereira",
+    "foto": "https://i.pravatar.cc/512?img=16",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de Dados com foco em inovação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Figma",
+      "Tailwind",
+      "SQL",
+      "Python",
+      "Spring"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Analista de Dados",
+        "inicio": "2019-07",
+        "fim": "2020-11",
+        "descricao": "Atuação em projetos de dados com Next.js, Figma, Tailwind."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFSC",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "Inclusão Digital",
+      "GovTech"
+    ],
+    "email": "eduarda.pereira@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 16,
+    "nome": "Felipe Correia",
+    "foto": "https://i.pravatar.cc/512?img=17",
+    "cargo": "Designer UI/UX",
+    "resumo": "Profissional de TI com foco em experiência do usuário.",
+    "localizacao": "Recife/PE",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "TensorFlow",
+      "Next.js",
+      "React",
+      "NoSQL",
+      "Swift"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Proatividade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Designer UI/UX",
+        "inicio": "2020-02",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de ti com MongoDB, TensorFlow, Next.js."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UNB",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Sustentabilidade",
+      "Finanças Pessoais"
+    ],
+    "email": "felipe.correia@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 17,
+    "nome": "João Campos",
+    "foto": "https://i.pravatar.cc/512?img=18",
+    "cargo": "Engenheiro(a) de Dados",
+    "resumo": "Profissional de Marketing com foco em automação.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Swift",
+      "Angular",
+      "Spring",
+      "Vue",
+      "Next.js",
+      "Django"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Engenheiro(a) de Dados",
+        "inicio": "2024-02",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos de marketing com Swift, Angular, Spring."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "GovTech",
+      "Open Source"
+    ],
+    "email": "joão.campos@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 18,
+    "nome": "Rafael Freitas",
+    "foto": "https://i.pravatar.cc/512?img=19",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Profissional de TI com foco em automação.",
+    "localizacao": "Florianópolis/SC",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Java",
+      "Node.js",
+      "Django",
+      "Spring",
+      "Vue",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Empatia",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2020-05",
+        "fim": "2024-11",
+        "descricao": "Atuação em projetos de ti com Java, Node.js, Django."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Finanças Pessoais",
+      "Cidades Inteligentes"
+    ],
+    "email": "rafael.freitas@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 19,
+    "nome": "Heitor Cardoso",
+    "foto": "https://i.pravatar.cc/512?img=20",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de Produto com foco em automação.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Figma",
+      "PostgreSQL",
+      "Tailwind",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Empatia",
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-04",
+        "fim": "2021-12",
+        "descricao": "Atuação em projetos de produto com TensorFlow, Figma, PostgreSQL."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação",
+      "Sustentabilidade"
+    ],
+    "email": "heitor.cardoso@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 20,
+    "nome": "Caio Santos",
+    "foto": "https://i.pravatar.cc/512?img=21",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional de TI com foco em experiência do usuário.",
+    "localizacao": "Salvador/BA",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "Kotlin",
+      "Azure",
+      "Java",
+      "Next.js",
+      "NumPy"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-08",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de ti com Tailwind, Kotlin, Azure."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cidades Inteligentes",
+      "Inclusão Digital"
+    ],
+    "email": "caio.santos@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 21,
+    "nome": "Lucas Souza",
+    "foto": "https://i.pravatar.cc/512?img=22",
+    "cargo": "Designer UI/UX",
+    "resumo": "Profissional de Produto com foco em dados abertos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Spring",
+      "Kubernetes",
+      "Figma",
+      "Flask",
+      "Java",
+      "NumPy"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Designer UI/UX",
+        "inicio": "2019-03",
+        "fim": "2023-01",
+        "descricao": "Atuação em projetos de produto com Spring, Kubernetes, Figma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFPE",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças Pessoais",
+      "GovTech",
+      "Saúde"
+    ],
+    "email": "lucas.souza@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 22,
+    "nome": "Talita Vieira",
+    "foto": "https://i.pravatar.cc/512?img=23",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Profissional de Produto com foco em automação.",
+    "localizacao": "Recife/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "Kotlin",
+      "TypeScript",
+      "Azure",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2024-09",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com Docker, Python, Kotlin."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFSC",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética",
+      "GovTech"
+    ],
+    "email": "talita.vieira@example.com",
+    "senioridade": "Sênior"
+  },
+  {
+    "id": 23,
+    "nome": "Isabela Rezende",
+    "foto": "https://i.pravatar.cc/512?img=24",
+    "cargo": "Designer UI/UX",
+    "resumo": "Profissional de TI com foco em dados abertos.",
+    "localizacao": "Salvador/BA",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Vue",
+      "Figma",
+      "React",
+      "Pandas",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Designer UI/UX",
+        "inicio": "2022-02",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de ti com AWS, Vue, Figma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC-SP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade",
+      "Cidades Inteligentes"
+    ],
+    "email": "isabela.rezende@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 24,
+    "nome": "Bernardo Monteiro",
+    "foto": "https://i.pravatar.cc/512?img=25",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de Design com foco em dados abertos.",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Angular",
+      "Docker",
+      "Tailwind",
+      "Kotlin",
+      "Vue"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-06",
+        "fim": "2025-12",
+        "descricao": "Atuação em projetos de design com NoSQL, Angular, Docker."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Negócios Sociais",
+      "Sustentabilidade"
+    ],
+    "email": "bernardo.monteiro@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 25,
+    "nome": "Vitor Ferreira",
+    "foto": "https://i.pravatar.cc/512?img=26",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de RH com foco em colaboração.",
+    "localizacao": "Brasília/DF",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Kubernetes",
+      "Kotlin",
+      "MongoDB",
+      "TypeScript",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SoftMind",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-08",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de rh com Next.js, Kubernetes, Kotlin."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UNB",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Cidades Inteligentes",
+      "GovTech"
+    ],
+    "email": "vitor.ferreira@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 26,
+    "nome": "Eduarda Dias",
+    "foto": "https://i.pravatar.cc/512?img=27",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de Design com foco em colaboração.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Python",
+      "Azure",
+      "Figma",
+      "Kubernetes",
+      "Spring"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-07",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design com SQL, Python, Azure."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Open Source",
+      "Inclusão Digital"
+    ],
+    "email": "eduarda.dias@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 27,
+    "nome": "Yasmin Rocha",
+    "foto": "https://i.pravatar.cc/512?img=28",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de Educação com foco em impacto social.",
+    "localizacao": "Recife/PE",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Swift",
+      "Pandas",
+      "TensorFlow",
+      "NoSQL",
+      "Node.js",
+      "Flask"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Proatividade",
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2019-07",
+        "fim": "2025-10",
+        "descricao": "Atuação em projetos de educação com Swift, Pandas, TensorFlow."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UNB",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética",
+      "Sustentabilidade"
+    ],
+    "email": "yasmin.rocha@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 28,
+    "nome": "Renan Oliveira",
+    "foto": "https://i.pravatar.cc/512?img=29",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de Dados com foco em experiência do usuário.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Swift",
+      "Flask",
+      "Pandas",
+      "SQL",
+      "PostgreSQL",
+      "React"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Empatia",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-01",
+        "fim": "2022-10",
+        "descricao": "Atuação em projetos de dados com Swift, Flask, Pandas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Negócios Sociais",
+      "Open Source"
+    ],
+    "email": "renan.oliveira@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 29,
+    "nome": "Valentina Mendes",
+    "foto": "https://i.pravatar.cc/512?img=30",
+    "cargo": "Analista de Produto",
+    "resumo": "Profissional de Dados com foco em dados abertos.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Java",
+      "Kotlin",
+      "Docker",
+      "AWS",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Analista de Produto",
+        "inicio": "2020-02",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados com Figma, Java, Kotlin."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Negócios Sociais",
+      "Open Source",
+      "Saúde"
+    ],
+    "email": "valentina.mendes@example.com",
+    "senioridade": "Sênior"
+  },
+  {
+    "id": 30,
+    "nome": "Larissa Pereira",
+    "foto": "https://i.pravatar.cc/512?img=31",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de TI com foco em colaboração.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Angular",
+      "Swift",
+      "Java",
+      "SQL",
+      "Spring"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Liderança",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-07",
+        "fim": "2023-07",
+        "descricao": "Atuação em projetos de ti com AWS, Angular, Swift."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "GovTech",
+      "Cidades Inteligentes"
+    ],
+    "email": "larissa.pereira@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 31,
+    "nome": "Felipe Gomes",
+    "foto": "https://i.pravatar.cc/512?img=32",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de Produto com foco em automação.",
+    "localizacao": "Salvador/BA",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "PostgreSQL",
+      "Kotlin",
+      "React",
+      "Python",
+      "Vue"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Organização",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-07",
+        "fim": "2022-04",
+        "descricao": "Atuação em projetos de produto com MongoDB, PostgreSQL, Kotlin."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "GovTech",
+      "IA ética"
+    ],
+    "email": "felipe.gomes@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 32,
+    "nome": "Ana Oliveira",
+    "foto": "https://i.pravatar.cc/512?img=33",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de Marketing com foco em automação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Kotlin",
+      "Python",
+      "Figma",
+      "Spring",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-09",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de marketing com Next.js, Kotlin, Python."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNB",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Sustentabilidade",
+      "Negócios Sociais"
+    ],
+    "email": "ana.oliveira@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 33,
+    "nome": "Rafael Rocha",
+    "foto": "https://i.pravatar.cc/512?img=34",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de Educação com foco em dados abertos.",
+    "localizacao": "Curitiba/PR",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Java",
+      "AWS",
+      "NumPy",
+      "React",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SoftMind",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-11",
+        "fim": "2022-12",
+        "descricao": "Atuação em projetos de educação com Kubernetes, Java, AWS."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Inclusão Digital",
+      "Finanças Pessoais"
+    ],
+    "email": "rafael.rocha@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 34,
+    "nome": "Marina Souza",
+    "foto": "https://i.pravatar.cc/512?img=35",
+    "cargo": "Analista de Produto",
+    "resumo": "Profissional de RH com foco em impacto social.",
+    "localizacao": "Florianópolis/SC",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Flask",
+      "Docker",
+      "TensorFlow",
+      "Kotlin",
+      "Pandas",
+      "Java"
+    ],
+    "softSkills": [
+      "Organização",
+      "Liderança",
+      "Proatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SoftMind",
+        "cargo": "Analista de Produto",
+        "inicio": "2021-02",
+        "fim": "2025-03",
+        "descricao": "Atuação em projetos de rh com Flask, Docker, TensorFlow."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "IA ética",
+      "Cidades Inteligentes"
+    ],
+    "email": "marina.souza@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 35,
+    "nome": "Bruno Freitas",
+    "foto": "https://i.pravatar.cc/512?img=36",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Profissional de Produto com foco em automação.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Vue",
+      "Django",
+      "NoSQL",
+      "MongoDB",
+      "Next.js",
+      "Swift"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2020-03",
+        "fim": "2020-05",
+        "descricao": "Atuação em projetos de produto com Vue, Django, NoSQL."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UNB",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Educação",
+      "IA ética"
+    ],
+    "email": "bruno.freitas@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 36,
+    "nome": "Felipe Gomes",
+    "foto": "https://i.pravatar.cc/512?img=37",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de Dados com foco em impacto social.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Pandas",
+      "Flask",
+      "NoSQL",
+      "SQL",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-04",
+        "fim": "2025-04",
+        "descricao": "Atuação em projetos de dados com AWS, Pandas, Flask."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "IA ética",
+      "Finanças Pessoais"
+    ],
+    "email": "felipe.gomes@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 37,
+    "nome": "Carla Barbosa",
+    "foto": "https://i.pravatar.cc/512?img=38",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de Educação com foco em colaboração.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Flask",
+      "TypeScript",
+      "Angular",
+      "Azure",
+      "Swift",
+      "SQL"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2024-12",
+        "fim": "2025-05",
+        "descricao": "Atuação em projetos de educação com Flask, TypeScript, Angular."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UNB",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "Educação",
+      "Negócios Sociais"
+    ],
+    "email": "carla.barbosa@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 38,
+    "nome": "Alana Barbosa",
+    "foto": "https://i.pravatar.cc/512?img=39",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional de Educação com foco em dados abertos.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Docker",
+      "Python",
+      "NumPy",
+      "Django",
+      "React"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Resiliência",
+      "Liderança",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Analista de QA",
+        "inicio": "2021-08",
+        "fim": "2025-02",
+        "descricao": "Atuação em projetos de educação com TensorFlow, Docker, Python."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UNB",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética",
+      "Negócios Sociais"
+    ],
+    "email": "alana.barbosa@example.com",
+    "senioridade": "Sênior"
+  },
+  {
+    "id": 39,
+    "nome": "Larissa Campos",
+    "foto": "https://i.pravatar.cc/512?img=40",
+    "cargo": "Designer UI/UX",
+    "resumo": "Profissional de Design com foco em impacto social.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Spring",
+      "Azure",
+      "TensorFlow",
+      "Flask",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Organização",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Designer UI/UX",
+        "inicio": "2020-03",
+        "fim": "2023-10",
+        "descricao": "Atuação em projetos de design com Angular, Spring, Azure."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UNB",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Finanças Pessoais",
+      "GovTech"
+    ],
+    "email": "larissa.campos@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 40,
+    "nome": "Xavier Gomes",
+    "foto": "https://i.pravatar.cc/512?img=41",
+    "cargo": "Analista de Produto",
+    "resumo": "Profissional de Design com foco em inovação.",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Django",
+      "Java",
+      "NumPy",
+      "Python",
+      "Kotlin",
+      "GCP"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Analista de Produto",
+        "inicio": "2021-04",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design com Django, Java, NumPy."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC-SP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Negócios Sociais",
+      "Cidades Inteligentes"
+    ],
+    "email": "xavier.gomes@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 41,
+    "nome": "Igor Barbosa",
+    "foto": "https://i.pravatar.cc/512?img=42",
+    "cargo": "Designer UI/UX",
+    "resumo": "Profissional de TI com foco em inovação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Vue",
+      "Flask",
+      "Azure",
+      "GCP",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Designer UI/UX",
+        "inicio": "2023-05",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de ti com Node.js, Vue, Flask."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC-SP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Inclusão Digital",
+      "GovTech"
+    ],
+    "email": "igor.barbosa@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 42,
+    "nome": "João Lima",
+    "foto": "https://i.pravatar.cc/512?img=43",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional de Dados com foco em experiência do usuário.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Figma",
+      "Flask",
+      "React",
+      "Swift",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SoftMind",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-01",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos de dados com TypeScript, Figma, Flask."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UNB",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "GovTech",
+      "Educação",
+      "Saúde"
+    ],
+    "email": "joão.lima@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 43,
+    "nome": "Zeca Vieira",
+    "foto": "https://i.pravatar.cc/512?img=44",
+    "cargo": "Analista de Produto",
+    "resumo": "Profissional de Produto com foco em automação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "PostgreSQL",
+      "Vue",
+      "TensorFlow",
+      "GCP",
+      "SQL"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "BlueCloud",
+        "cargo": "Analista de Produto",
+        "inicio": "2021-11",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com Kotlin, PostgreSQL, Vue."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Educação",
+      "GovTech"
+    ],
+    "email": "zeca.vieira@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 44,
+    "nome": "Zeca Dias",
+    "foto": "https://i.pravatar.cc/512?img=45",
+    "cargo": "Designer UI/UX",
+    "resumo": "Profissional de Produto com foco em inovação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "Vue",
+      "AWS",
+      "Python",
+      "Figma",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Designer UI/UX",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com React, Vue, AWS."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Saúde",
+      "IA ética"
+    ],
+    "email": "zeca.dias@example.com",
+    "senioridade": "Sênior"
+  },
+  {
+    "id": 45,
+    "nome": "Fábio Rocha",
+    "foto": "https://i.pravatar.cc/512?img=46",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional de Marketing com foco em impacto social.",
+    "localizacao": "Salvador/BA",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Azure",
+      "TensorFlow",
+      "Django",
+      "Figma",
+      "Java"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Adaptabilidade",
+      "Liderança",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SoftMind",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2022-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de marketing com Next.js, Azure, TensorFlow."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Cidades Inteligentes",
+      "GovTech"
+    ],
+    "email": "fábio.rocha@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 46,
+    "nome": "Carla Campos",
+    "foto": "https://i.pravatar.cc/512?img=47",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional de TI com foco em impacto social.",
+    "localizacao": "Recife/PE",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Azure",
+      "MongoDB",
+      "AWS",
+      "Figma",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaX",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-11",
+        "fim": "2025-09",
+        "descricao": "Atuação em projetos de ti com NoSQL, Azure, MongoDB."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades Inteligentes",
+      "Negócios Sociais",
+      "GovTech"
+    ],
+    "email": "carla.campos@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 47,
+    "nome": "Igor Santos",
+    "foto": "https://i.pravatar.cc/512?img=48",
+    "cargo": "Desenvolvedor(a) Mobile",
+    "resumo": "Profissional de Produto com foco em impacto social.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "NumPy",
+      "Angular",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Desenvolvedor(a) Mobile",
+        "inicio": "2024-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com Python, SQL, PostgreSQL."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "IA ética",
+      "Educação"
+    ],
+    "email": "igor.santos@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 48,
+    "nome": "Priscila Correia",
+    "foto": "https://i.pravatar.cc/512?img=49",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de Design com foco em dados abertos.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "NumPy",
+      "Django",
+      "Tailwind",
+      "Java",
+      "Angular"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SoftMind",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2023-05",
+        "fim": "2023-05",
+        "descricao": "Atuação em projetos de design com Kotlin, NumPy, Django."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto TalentAI",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "Finanças Pessoais",
+      "IA ética"
+    ],
+    "email": "priscila.correia@example.com",
+    "senioridade": "Sênior"
+  },
+  {
+    "id": 49,
+    "nome": "Marina Santos",
+    "foto": "https://i.pravatar.cc/512?img=50",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional de Design com foco em automação.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Swift",
+      "NoSQL",
+      "Django",
+      "Spring",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Organização",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Analista de QA",
+        "inicio": "2023-10",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design com Swift, NoSQL, Django."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Inclusão Digital",
+      "Saúde"
+    ],
+    "email": "marina.santos@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 50,
+    "nome": "Xavier Rocha",
+    "foto": "https://i.pravatar.cc/512?img=51",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de Produto com foco em inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Azure",
+      "TypeScript",
+      "Vue",
+      "Kotlin",
+      "Kubernetes",
+      "Spring"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Pensamento crítico",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com Azure, TypeScript, Vue."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFMG",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Negócios Sociais",
+      "Cidades Inteligentes"
+    ],
+    "email": "xavier.rocha@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 51,
+    "nome": "Priscila Rezende",
+    "foto": "https://i.pravatar.cc/512?img=52",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional de TI com foco em impacto social.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "GCP",
+      "SQL",
+      "Kotlin",
+      "Node.js",
+      "Kubernetes",
+      "NumPy"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Adaptabilidade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-10",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de ti com GCP, SQL, Kotlin."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UNB",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cidades Inteligentes",
+      "Saúde"
+    ],
+    "email": "priscila.rezende@example.com",
+    "senioridade": "Trainee"
+  },
+  {
+    "id": 52,
+    "nome": "Daniela Ferreira",
+    "foto": "https://i.pravatar.cc/512?img=53",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de RH com foco em automação.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "NumPy",
+      "Spring",
+      "NoSQL",
+      "TensorFlow",
+      "React",
+      "Vue"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico",
+      "Organização",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechLabs",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2023-12",
+        "fim": "2023-12",
+        "descricao": "Atuação em projetos de rh com NumPy, Spring, NoSQL."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "IA ética",
+      "Educação"
+    ],
+    "email": "daniela.ferreira@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 53,
+    "nome": "Ana Freitas",
+    "foto": "https://i.pravatar.cc/512?img=54",
+    "cargo": "Engenheiro(a) de Dados",
+    "resumo": "Profissional de RH com foco em inovação.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "PostgreSQL",
+      "Flask",
+      "Kubernetes",
+      "Azure",
+      "Figma",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Resiliência",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Engenheiro(a) de Dados",
+        "inicio": "2021-11",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de rh com PostgreSQL, Flask, Kubernetes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Negócios Sociais",
+      "Educação"
+    ],
+    "email": "ana.freitas@example.com",
+    "senioridade": "Analista"
+  },
+  {
+    "id": 54,
+    "nome": "Clara Rezende",
+    "foto": "https://i.pravatar.cc/512?img=55",
+    "cargo": "Desenvolvedor(a) Mobile",
+    "resumo": "Profissional de Design com foco em impacto social.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Spring",
+      "Java",
+      "Figma",
+      "Vue",
+      "Node.js",
+      "Swift"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Desenvolvedor(a) Mobile",
+        "inicio": "2023-11",
+        "fim": "2025-09",
+        "descricao": "Atuação em projetos de design com Spring, Java, Figma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cidades Inteligentes",
+      "GovTech"
+    ],
+    "email": "clara.rezende@example.com",
+    "senioridade": "Júnior"
+  },
+  {
+    "id": 55,
+    "nome": "Karina Correia",
+    "foto": "https://i.pravatar.cc/512?img=56",
+    "cargo": "Designer UI/UX",
+    "resumo": "Profissional de Design com foco em colaboração.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Azure",
+      "Java",
+      "NoSQL",
+      "Figma",
+      "Next.js",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Organização",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SoftMind",
+        "cargo": "Designer UI/UX",
+        "inicio": "2023-12",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design com Azure, Java, NoSQL."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Finanças Pessoais",
+      "Educação",
+      "Saúde"
+    ],
+    "email": "karina.correia@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 56,
+    "nome": "João Lima",
+    "foto": "https://i.pravatar.cc/512?img=57",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional de TI com foco em experiência do usuário.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Django",
+      "SQL",
+      "Python",
+      "Next.js",
+      "React",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2019-12",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de ti com Django, SQL, Python."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UNB",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Conecta",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Educação",
+      "Cidades Inteligentes"
+    ],
+    "email": "joão.lima@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 57,
+    "nome": "Natan Pereira",
+    "foto": "https://i.pravatar.cc/512?img=58",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de TI com foco em automação.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Pandas",
+      "Figma",
+      "NumPy",
+      "Kotlin",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2024-04",
+        "fim": "2025-06",
+        "descricao": "Atuação em projetos de ti com Angular, Pandas, Figma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFPE",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "Finanças Pessoais",
+      "Negócios Sociais"
+    ],
+    "email": "natan.pereira@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 58,
+    "nome": "Jéssica Mendes",
+    "foto": "https://i.pravatar.cc/512?img=59",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Profissional de RH com foco em dados abertos.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "React",
+      "PostgreSQL",
+      "Kubernetes",
+      "Node.js",
+      "SQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2019-10",
+        "fim": "2020-07",
+        "descricao": "Atuação em projetos de rh com React, PostgreSQL, Kubernetes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFPE",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Futuro+",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão Digital",
+      "Negócios Sociais",
+      "Educação"
+    ],
+    "email": "jéssica.mendes@example.com",
+    "senioridade": "Estagiário"
+  },
+  {
+    "id": 59,
+    "nome": "Giovana Vieira",
+    "foto": "https://i.pravatar.cc/512?img=60",
+    "cargo": "Desenvolvedor(a) Back-end",
+    "resumo": "Profissional de Produto com foco em colaboração.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Kubernetes",
+      "Spring",
+      "GCP",
+      "Django",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "AlphaBit",
+        "cargo": "Desenvolvedor(a) Back-end",
+        "inicio": "2019-11",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com TensorFlow, Kubernetes, Spring."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "UNB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto MatchSkills",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Open Source",
+      "GovTech"
+    ],
+    "email": "giovana.vieira@example.com",
+    "senioridade": "Pleno"
+  },
+  {
+    "id": 60,
+    "nome": "Noah Correia",
+    "foto": "https://i.pravatar.cc/512?img=61",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional de Produto com foco em colaboração.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Flask",
+      "Kotlin",
+      "Spring",
+      "PostgreSQL",
+      "AWS",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UXLab",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2020-09",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de produto com Flask, Kotlin, Spring."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto WorkHub",
+        "link": "#",
+        "descricao": "Protótipo de plataforma colaborativa para conectar talentos e oportunidades."
+      }
+    ],
+    "certificacoes": [
+      "AWS CCP",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde",
+      "Negócios Sociais",
+      "GovTech"
+    ],
+    "email": "noah.correia@example.com",
+    "senioridade": "Júnior"
+  }
+]
