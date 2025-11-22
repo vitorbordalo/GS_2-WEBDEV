@@ -55,7 +55,7 @@ http://localhost:5173
 
 🔗 Link do video Linkedin
 
-👉 https://github.com/vitorbordalo/GS_2-WEBDEV
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7397790361668059136/
 
 🔗 Link do repositorio
 https://github.com/vitorbordalo/GS_2-WEBDEV
