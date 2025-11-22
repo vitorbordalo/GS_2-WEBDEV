@@ -3,7 +3,9 @@
 Uma solução moderna para empregabilidade, carreira e conexões profissionais
 
 👨‍💻 Integrantes do Grupo
-	•	Vitor Bordalo Corrêa Guimarães — RM: 561592
+	
+•	Vitor Bordalo Corrêa Guimarães — RM: 561592
+
   •	Lucas Flekner Branquinho — RM: 562262
 
 
@@ -26,6 +28,7 @@ A plataforma permite que usuários encontrem talentos de forma rápida e intuiti
 Além disso, o sistema simula ações comuns em redes profissionais, como recomendar um talento ou iniciar contato, ajudando a criar um ambiente realista e voltado ao mercado.
 
 Toda a interface foi construída com React + Vite + TailwindCSS, garantindo:
+
 ✨ Velocidade
 ✨ Design moderno
 ✨ Responsividade completa
