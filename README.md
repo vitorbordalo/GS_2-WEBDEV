@@ -53,6 +53,6 @@ npm run dev
 # 5. Acessar no navegador
 http://localhost:5173
 
-🔗 Link do Repositório
+🔗 Link do video Linkedin
 
 👉 https://github.com/vitorbordalo/GS_2-WEBDEV
